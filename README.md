@@ -6,7 +6,7 @@ Epitech Project, Minilibc
    ```sh
    make
    ```
-2. you will see the static library "libasm.so"
+2. You will see the static library "libasm.so"
 
 ## Documentation
 _If you don't know anything about x86-64 Assembly you can start [here](https://github.com/0xAX/asm)_
